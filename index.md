@@ -1,3 +1,17 @@
+# **个人信息**
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>林潇</h1>
+      <p><b>本科/</b></p>
+      <p><b>成都信息工程大学通信工程学院</b></p>
+      <p><b>邮箱：lin.xiao94@foxmail.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/linxiao.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 # **联系方式**
 
