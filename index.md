@@ -4,22 +4,16 @@
       <p>林潇</p>
       <p>1994/10/8</p>
       <p>本科/成都信息工程大学</p>
-      <p>邮箱：lin.xiao94@foxmail.com</p>
+      <p>手机：183xxxxxxxx</p>
+      <p>Email：lin.xiao94@foxmail.com</p>
+      <p>QQ：1130037266</p>
+      <p>Github：http://github.com/leitana</p>
     </td>
     <td width="25%">
       <img src="/linxiao.jpg" width="100%">
     </td>
   </tr>
 </table>
-
-# **联系方式**
-
-- 手机：18380448172
-- Email：lin.xiao94@foxmail.com
-- QQ：1130037266
-- 微信：18380448172
--  Github：http://github.com/leitana
-
 
 # 技能清单
 
