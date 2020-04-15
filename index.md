@@ -2,9 +2,8 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p>林潇</p
-      <p>本科</p>
-      <p>成都信息工程大学通信工程学院</p>
+      <p>林潇</p>
+      <p>本科/成都信息工程大学通信工程学院</p>
       <p>邮箱：lin.xiao94@foxmail.com</p>
     </td>
     <td width="25%">
@@ -15,10 +14,12 @@
 
 # **联系方式**
 
-- 手机：183xxxxxxxx
+- 手机：18380448172
 - Email：lin.xiao94@foxmail.com
 - QQ：1130037266
-- 微信：183xxxxxxxx
+- 微信：18380448172
+-  Github：http://github.com/leitana
+
 
 # 技能清单
 
