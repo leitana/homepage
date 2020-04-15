@@ -10,7 +10,7 @@
       <p>Github：http://github.com/leitana</p>
     </td>
     <td width="25%">
-      <img src="https://github.com/leitana/homepage/raw/master/linxiao.jpg" width="100%">
+      <img src="https://raw.githubusercontent.com/leitana/homepage/master/linxiao.jpg" width="100%">
     </td>
   </tr>
 </table>
