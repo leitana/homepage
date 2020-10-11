@@ -17,17 +17,22 @@
 
 ## 技能清单
 
-- Java
-- Kotlin入门
+- Java，Kotlin
+- Jetpack
 - Android UI设计，自定义控件
 - MVC，MVP模式开发
 - Jsoup爬虫
 - 数据库相关：SQLite，DBFlow
 - 屏幕适配，Android各个版本的升级适配与优化
-- 熟悉Rxjava，Retrofit
+- 熟悉Rxjava，Retrofit，Kotlin协程等
 
 
 ## **工作经历**
+
+### 亚信科技（ 2020年5月 ~ 至今 ）
+
+#### 门户
+针对运行商的门户App，各个软件的入口。负责应用中心模块，主要涉及的技术有断点下载，安装，更新，Room数据库。
 
 ### 成都亿阳信通信息技术有限公司（ 2016年9月 ~ 2020年4月 ）
 
