@@ -20,7 +20,7 @@
 - Java，Kotlin
 - Jetpack
 - Android UI设计，自定义控件
-- MVC，MVP模式开发
+- MVC，MVP，MVVM模式开发
 - Jsoup爬虫
 - 数据库相关：SQLite，DBFlow
 - 屏幕适配，Android各个版本的升级适配与优化
